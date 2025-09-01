@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme colors - these will be used automatically in dark mode -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Material Design 3 dark theme colors -->
+    <color name="md_theme_dark_primary">#6BB6FF</color>
+    <color name="md_theme_dark_onPrimary">#001D36</color>
+    <color name="md_theme_dark_primaryContainer">#0054A3</color>
+    <color name="md_theme_dark_onPrimaryContainer">#D1E4FF</color>
+    <color name="md_theme_dark_secondary">#BEC8DB</color>
+    <color name="md_theme_dark_onSecondary">#283141</color>
+    <color name="md_theme_dark_secondaryContainer">#3E4758</color>
+    <color name="md_theme_dark_onSecondaryContainer">#DAE4F7</color>
+    <color name="md_theme_dark_tertiary">#D6BFDD</color>
+    <color name="md_theme_dark_onTertiary">#3B2947</color>
+    <color name="md_theme_dark_tertiaryContainer">#523F5E</color>
+    <color name="md_theme_dark_onTertiaryContainer">#F2DAFF</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+    <color name="md_theme_dark_background">#121212</color>
+    <color name="md_theme_dark_onBackground">#E3E2E6</color>
+    <color name="md_theme_dark_surface">#121212</color>
+    <color name="md_theme_dark_onSurface">#E3E2E6</color>
+    <color name="md_theme_dark_surfaceVariant">#43474E</color>
+    <color name="md_theme_dark_onSurfaceVariant">#C3C7CF</color>
+    <color name="md_theme_dark_outline">#8D9199</color>
+    <color name="md_theme_dark_outlineVariant">#43474E</color>
+    <color name="md_theme_dark_inverseSurface">#E3E2E6</color>
+    <color name="md_theme_dark_inverseOnSurface">#2F3033</color>
+    <color name="md_theme_dark_inversePrimary">#0054A3</color>
+    
+    <!-- Delivery status colors (optimized for dark theme) -->
+    <color name="status_confirmed">#66BB6A</color>
+    <color name="status_preparing">#FFA726</color>
+    <color name="status_en_route">#42A5F5</color>
+    <color name="status_delivered">#9CCC65</color>
+</resources>
